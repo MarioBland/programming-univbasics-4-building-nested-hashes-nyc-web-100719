@@ -1,6 +1,6 @@
 def base_hash
   monopoly = {
-			:WHAT_KEY_HERE => {}
+			:railroads => {}
 		}
 end
 
