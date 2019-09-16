@@ -17,14 +17,20 @@ def monopoly_with_third_tier
 	monopoly =  {
 		  :railroads => {
 				:pieces => 4,
-				:names => " ",
+					:names => {
+						:reading_railroad => " ",
+						:rainbow_road => " ",
+						:pain_train => " ",
+						:kiwi_nightrain => " ",
+
+					},
+
 					:rent_in_dollars => {
 							:one_house => 100,
 							:two_house => 200,
 							:three_house => 300,
 							:hotel => 1000,
 					}
-
 				}
 			}
 
