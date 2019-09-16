@@ -1,6 +1,6 @@
 def base_hash
-  monopoly = { 
-			WHAT_KEY_HERE => {}
+  monopoly = {
+			:WHAT_KEY_HERE => {}
 		}
 end
 
