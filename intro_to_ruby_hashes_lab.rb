@@ -23,7 +23,7 @@ def monopoly_with_third_tier
 						:three_house => 300,
 						:hotel => 1000
 					}
-				:names => {}
+				:names => {
 				}
 			}
 		}
