@@ -19,9 +19,9 @@ def monopoly_with_third_tier
 				:pieces => 4,
 					:names => {
 						:reading_railroad => {},
-						:rainbow_road => " ",
-						:pain_train => " ",
-						:kiwi_nightrain => " ",
+						:pennsylvania_railroad=> {},
+						:b_and_o_railroad=> {},
+						:shortline=>{},
 
 					},
 
